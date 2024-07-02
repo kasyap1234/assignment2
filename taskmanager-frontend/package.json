@@ -5,13 +5,14 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
-		"preview": "vite preview"
+		"preview": "vite   preview"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"autoprefixer": "^10.4.19",
+		"@sveltejs/adapter-node": "^5.2.0",
 		"postcss": "^8.4.39",
 		"svelte": "^4.2.7",
 		"tailwindcss": "^3.4.4",
@@ -19,6 +20,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-node": "^5.2.0",
 		"svelte-routing": "^2.13.0"
 	}
 }
