@@ -5,6 +5,9 @@ Sure! Here are the instructions to start your Task Management Application with t
 # Task Management Application
 
 ## Getting Started
+[Screen Recorder.webm](https://github.com/kasyap1234/assignment2/assets/76957823/05555ec5-1bc4-47aa-aede-0662c232cfae)
+
+
 
 ### Prerequisites
 
